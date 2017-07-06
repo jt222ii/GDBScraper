@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GDBS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GDBS_jar</output-path>
+    <root id="archive" name="GDBS.jar">
+      <element id="module-output" name="GDBS" />
+      <element id="extracted-dir" path="E:/downloads/jsoup-1.10.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/downloads/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

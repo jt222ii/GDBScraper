@@ -1,0 +1,3052 @@
+[
+    {
+        "Type": "Bronze",
+        "Abilities": "Toggle a Unit's Resilience.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/174\/50037icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Adrenaline Rush",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "When you have 5 or more Elf Allies, play this Unit from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/204\/50115icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Aelirenn",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Play a Bronze or Silver Weather card from your Deck. Shuffle the others back into your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/138\/50034icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Aeromancy",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: You may Resurrect a Special card from your opponent's Graveyard. If you do, Weaken self by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/116\/3006icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Agla�s",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "After 2 turns, at the start of your turn, play an Alba Pikeman from your Deck on the row. Deploy: Gain 2 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/278\/50186icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Alba Pikeman",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Give this Unit a Shield.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/279\/50187icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Alba Spearmen",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: If neither player has passed, each player draws the top card from their Deck. Your opponent's card is Revealed.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/255\/50163icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Albrich",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Reveal a card.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/89\/572icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Alchemist",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Boost one of the Highest Bronze or Silver Units in your Deck by 2 and play it.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/225\/50198icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Alzur's Double\u2013Cross",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Damage a Unit by 7.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/147\/50035icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Alzur's Thunder",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Boost an Ally by 10.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/282\/50190icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Ambassador",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Every turn, at the start of your turn, Boost self by 1 if Fog is anywhere on the Board.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/61\/4101icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Ancient Foglet",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Play all Arachasae from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/159\/50084icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Arachas",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever an Ally Consumes a card, Spawn an Arachas and Damage self by 1 (ignoring Armor). Deploy: Gain 2 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/158\/50078icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Arachas Behemoth",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Damage 3 adjacent Units by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/301\/50218icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Arachas Venom",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Clear Weather from the row on your side.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/142\/50087icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Archgriffin",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Play a random Bronze Weather card from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/306\/50223icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Aretuza Adept",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Lock and Destroy an Enemy.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/285\/50209icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Assassination",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Shuffle up to 2 cards from either Graveyard into that player's Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/256\/50164icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Assire var Anahid",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Toggle 2 Units' Lock. If Enemies, Damage them by 1 as well.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/262\/50170icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Auckes",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: If neither player has passed, both players draw the top 2 cards from their Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/23\/515icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Avallac'h",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage an Enemy and up to 3 other random Enemies with the same Power by 1. Fresh Crew: Repeat the Deploy ability.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/183\/50060icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Ballista",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Play a random Bronze or Silver Dwarf from your Deck and Boost it by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/160\/50112icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Barclay Els",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Swap the Power of the Highest and Lowest Unit.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/226\/50042icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Bekker's Twisted Mirror",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Strengthen self by 1 for each Damaged Ally (including Golds), then Damage self by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/146\/50136icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Berserker Marauder",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Move a Unit from your opponent's Graveyard to yours. Every turn, at the start of your turn, Damage self by 1 and Units adjacent to this Unit by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/163\/50127icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Birna Bran",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Apply Frost to a row on your opponent's side. Frost: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/81\/3icon.png",
+        "Row": "EventMeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Biting Frost",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage an Enemy by 3. If it was Boosted, Damage it by 5 instead.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/272\/50180icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Black Infantry Arbalest",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Destroy an Ally. Spawn a Bear.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/299\/50216icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Bloodcurdling Roar",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "If this Unit is in your Deck at the end of the Round, place it on top. Whenever an Enemy is Destroyed during a Round while this Unit is in your Deck, Boost it by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/107\/567icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Bloody Baron",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever this Unit is moved, Boost it by 2. Deploy: Play all Blue Mountain Commandos from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/52\/3116icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Blue Mountain Commando",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever a different Ally with the same Power as this Unit is played, play this Unit from your Deck (1 copy max) and place it on that Ally's row. Whenever you complete a Blue Stripes Commando Trio, create 1 base copy of a Blue Stripes Commando on the bottom of your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/39\/1115icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Blue Stripes Commando",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Gain 2 Armor. Deploy: Clear Weather from the row on your side. Crewmen 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/38\/1114icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Blue Stripes Scout",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Veteran 1. Deploy: Spawn a Spectral Whale on your opponent's side.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/71\/5041icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Blueboy Lugos",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Boost all Lubberkins in your Hand, Deck and Graveyard by 5. Deathwish: Play a Lubberkin from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/288\/50068icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Botchling",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Damage an Enemy by this Unit's Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/203\/50113icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Braenn",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Brouver Hoog Deploy: Play a Silver Unit from your Deck. Shuffle the others back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/319\/50236icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Brouver Hoog",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: If playing as Nilfgaard, trigger your Leader's Deploy ability.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/250\/50158icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Cahir",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Draw the top card from your Deck. Keep it, or place it at the bottom of your Deck and draw the new top card.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/264\/50172icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Cantarella",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Move 3 Enemies to this Unit's row on your opponent's side and apply Frost to that row on that side only.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/92\/4004icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Caranthir",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Resurrect a Unit from your opponent's Graveyard.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/28\/576icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Caretaker",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Move 2 Bronze Spying Enemies to your side.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/267\/50175icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Ceallach",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Spawn 2 Harpy Eggs to the left of this Unit.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/133\/4047icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Celaeno Harpy",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "After 4 Units are Resurrected on your side while this Unit is in the Graveyard, Resurrect it.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/324\/50241icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Cerys",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Every turn, at the start of your turn, Strengthen this Unit by 2 if it is the only Unit on the row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/164\/50128icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Champion of Champions",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy, Brave: Strengthen self by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/154\/50028icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Chort",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Toggle a Unit's Lock and move it to this row on its side.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/202\/50111icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Ciaran",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "At the end of the Round, return this Unit to your Hand if you lost.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/20\/505icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Ciri",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "When this Unit enters the Graveyard, Strengthen it by 3 and shuffle it back into your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/219\/50018icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Ciri: Dash",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Whenever this Unit is Discarded, Resurrect it immediately.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/131\/5104icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Clan an Craite Raider",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Deploy: Boost 3 Damaged Units to the left by half their Power (rounding down).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/151\/50040icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Clan an Craite Warcrier",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Deploy: Damage self by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/73\/5105icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Clan an Craite Warrior",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Deploy: Damage 3 Units by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/217\/50143icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Clan Brokvar Archer",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever a Unit adjacent to this Unit is Damaged, Strengthen self by 1. Deploy: Damage a Unit by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/214\/50137icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Clan Brokvar Hunter",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Deploy: Discard all copies of this Unit from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/124\/5115icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Clan Dimun Pirate",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Whenever a Unit is Discarded to your Graveyard, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/79\/5116icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Clan Dimun Pirate Captain",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage a Unit by 2. If it was already Damaged, play a Clan Drummond Shieldmaiden from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/244\/50144icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Clan Drummond Shieldmaiden",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Deploy: Boost 3 Units to the left by 3, 2 and 1 respectively.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/165\/50138icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Clan Heymaey Skald",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Deploy: Heal 3 Units to the left.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/74\/5106icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Clan Tordarroch Armorsmith",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Deploy: Strengthen an Ally by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/75\/5107icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Clan Tordarroch Shieldsmith",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever an Enemy is Damaged, Boost self by 1. Deploy: Gain 2 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/215\/50140icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Clan Tuirseach Axeman",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Veteran 1. Whenever this Unit enters the Graveyard, Strengthen it by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/167\/50141icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Clan Tuirseach Skirmishers",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Toggle a Unit's Lock.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/236\/50205icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Cleaver",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Toggle a Unit's Resilience.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/280\/50188icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Combat Engineer",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Boost 5 adjacent Units by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/12\/1icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Commander's Horn",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever you Mulligan a card, Damage a random Enemy by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/117\/3115icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Commando Neophyte",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Pick a Unit and Damage all Units on its row by half their Power (rounding up and ignoring Armor).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/67\/5005icon.png",
+        "Row": "RangedSiegeMelee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Coral",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Crach an Craite Deploy: Play the Highest Loyal Bronze or Silver Unit in your Deck, Strengthen it by 3 and Damage it by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/312\/50229icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Crach an Craite",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Play Whispess and Weavess from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/57\/4039icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Crone: Brewess",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Play Brewess and Whispess from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/58\/4040icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Crone: Weavess",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Play Brewess and Weavess from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/56\/4038icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Crone: Whispess",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Reveal one of the Highest Units in your opponent's Hand (including Golds) and Boost self by its Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/257\/50165icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Cynthia",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Weaken a Unit by 3 or Destroy an Ambush Unit.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/234\/50196icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Cyprian Wiley",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever this Unit is Revealed, play it and draw the top card from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/268\/50177icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Daerlan Foot Soldiers",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Dagon. Deploy: Spawn Biting Frost, Impenetrable Fog or Torrential Rain.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/310\/50227icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Dagon",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Boost up to 3 Bronze or Silver Units in your Deck by 3, then shuffle your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/25\/550icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Dandelion",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Return an Ally to your Hand, Boost it by 3 and play it.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/11\/0icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Decoy",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Strengthen all other Bronze and Silver Dwarves in your Deck, Hand and on your side of the Board by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/241\/50108icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Dennis Cranmer",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Spawn Torrential Rain, Clear Skies or Alzur's Thunder.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/235\/50055icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Dethmold",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Play the top 2 cards in your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/31\/1003icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Dijkstra",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Choose 3 adjacent Units (can be Golds) and Reset them. If any are Gold, Demote them first.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/156\/50033icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Dimeritium Bomb",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Choose a Unit (can be Gold) and toggle its Lock. If it is Gold, Demote it first.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/228\/50199icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Dimeritium Shackles",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Veteran 1. Deploy: Damage 3 Allies by 1 and Strengthen self by 1 for each.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/243\/50129icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Djenge Frett",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage Enemies by 3 and then 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/209\/50122icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Dol Blathanna Archer",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Every time this Unit is moved, Damage a random Enemy by 2. Deploy: Damage an Enemy by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/51\/3113icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Dol Blathanna Marksman",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever you play a Special card, Boost this Unit by 1 while in your Hand, Deck or on your side of the Board.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/307\/50224icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Dol Blathanna Protector",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Spawn a Fireball Trap on an opposing row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/130\/3104icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Dol Blathanna Trapper",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Veteran 1. Deploy: Toggle a Unit's Lock. Discard a random Bronze card from your opponent's Deck to your Graveyard.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/68\/5032icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Donar an Hindar",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Strengthen up to 2 Units in your Graveyard by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/123\/5037icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Draig Bon\u2013Dhu",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Damage a random Enemy by 1 (ignoring Armor). Repeat 6 times.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/140\/50075icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Draug",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Apply Drought to all rows on your opponent's side. Drought: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/296\/50213icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Drought",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Move a Unit to this row on its side.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/196\/50090icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Drowner",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Choose an Enemy and copy its Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/222\/50020icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "1",
+        "Name": "Dudu",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Remove Armor from 2 Units and Boost self by the amount of Armor removed.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/115\/1118icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Dun Banner Heavy Cavalry",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "If at the start of your turn you have not passed and are losing the Round by more than 20 Power, play this Unit from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/42\/1117icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Dun Banner Light Cavalry",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Move a Unit on another row to this row on its side. If it's an Ally, Boost it by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/102\/3106icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Dwarven Mercenary",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage an Enemy by 3. If the Unit was not Destroyed, Boost self by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/153\/50119icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Dwarven Skirmisher",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Give this Unit a Shield. Deathwish: Spawn 2 Lesser Earth Elementals at the end of the row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/192\/50081icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Earth Elemental",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Eithn� Deploy: Resurrect a Special card.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/318\/50235icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Eithn�",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Gain Resilience. Deploy: Consume an Ally.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/195\/50089icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Ekimmara",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Destroy an Ally and Damage an Enemy by the Destroyed Ally's Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/206\/50117icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Ele'yas",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Draw the top 2 Bronze Special cards in your Deck. Play 1 and shuffle the other back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/103\/3109icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Elven Mercenary",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever you Mulligan this Unit, play it from your Deck immediately.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/162\/50124icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Elven Wardancer",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Emhyr var Emreis Deploy: Return an Ally to your Hand, then play a card from your Hand (can be Gold).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/314\/50231icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Emhyr var Emreis",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Draw the top 2 Bronze Units (not including Emissaries) from your Deck. Play 1 and shuffle the other back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/281\/50189icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Emissary",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Destroy all the Lowest Units.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/82\/12icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Epidemic",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Eredin. Deploy: Spawn a Bronze Wild Hunt Unit.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/91\/40000icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Eredin",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Draw the top 2 cards from your Deck, then Discard 2 cards (can be Golds) from your Hand.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/119\/5002icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Ermion",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Play Vesemir and Lambert from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/136\/50021icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Eskel",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "If this Unit is Spying at the start of your turn, Boost it by 1. If it is Spying when your opponent passes, move it to the opposite side. Deploy: When you play this Unit on your side, Strengthen it by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/266\/50174icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Fake Ciri",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Choose a different Bronze Ally and shuffle it back into your Deck, then play a random Bronze Unit from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/125\/1116icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Field Medic",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Toggle a Unit's Lock. If it's an Enemy, Damage it by half its Power (rounding up and ignoring Armor).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/132\/4037icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Fiend",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Spawn 3 Lesser Fire Elementals.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/134\/582icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Fire Elemental",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever this Unit is Revealed, Damage a random Enemy by 3. Deploy: Damage an Enemy by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/273\/50181icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Fire Scorpion",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Spawn Clear Skies or Rally.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/16\/6icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "First Light",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever you apply Fog to an opposing row, play this Unit from your Deck or Resurrect it on that row on your side. When all Fog has been cleared from the Board, Destroy this Unit.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/60\/4100icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Foglet",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Foltest Deploy: Boost all Loyal Bronze and Silver Units in your Hand and Deck by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/320\/50237icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Foltest",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Francesca Deploy: Mulligan up to 3 cards.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/317\/50234icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Francesca",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Move a Unit on another row on this side to this row. Draw the top card from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/93\/4036icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Frightener",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: If Spying, set own base Power to 1. Deploy: Set the Power of the Unit on the right to that of the Unit on the left.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/259\/50167icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Fringilla Vigo",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Guess whether a random Bronze or Silver Unit from your opponent's Deck is Higher or Lower than 5. Success: Play any card from your Deck. Shuffle the others back. Failure: Your opponent draws the top Bronze or Silver card from their Deck. Tie: Both players draw the top Bronze or Silver card from their Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/106\/555icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Gaunter O'Dimm",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Draw the top Gold card and top Silver card from your Deck. Play one and return the other to the top of your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/189\/50074icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Ge'els",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy, Brave: Strengthen self by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/24\/517icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Geralt",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Push 5 adjacent Enemies to the row above them and Damage them by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/220\/50019icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Geralt: Aard",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Destroy all the Highest Units on the opposite row if that row totals 20 or more Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/19\/501icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Geralt: Igni",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Consume a random Unit from either Graveyard.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/193\/50086icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Ghoul",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Consume a card in your Hand, then draw the top card from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/95\/4042icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Giant Toad",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "After 1 turn, at the start of your turn, Consume all Units in your Graveyard, but only Boost self by 1 for each.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/104\/4033icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Grave Hag",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Spawn Impenetrable Fog, Clear Skies or Bloodcurdling Roar.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/145\/50130icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Gremist",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Move a card from one Graveyard to the other.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/97\/4110icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Griffin",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Harald the Cripple Deploy: Damage a Unit by 5. If this Destroys it, repeat this ability with Damage Power reduced by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/313\/50230icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Harald the Cripple",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Trigger the Deathwish of Units adjacent to this Unit.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/240\/50091icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Harpy",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Boost 2 Units to the right by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/49\/3100icon.png",
+        "Row": "RangedSiegeMelee",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Hawker Healer",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever an Enemy appears, Boost self by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/101\/3101icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Hawker Smuggler",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Boost a Unit in your Hand by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/210\/50123icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Hawker Support",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Henselt Deploy: Choose a Bronze Ally. Play all copies of it from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/322\/50239icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Henselt",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Spawn the Lord of Undvik on the leftmost side of the opposite row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/66\/5000icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "13",
+        "Name": "Hjalmar",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Veteran 1. Deploy: Damage a Unit by 5. If it was Destroyed, Strengthen one of the Highest Units in your Graveyard by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/211\/50131icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Holger Blackhand",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "If Frost is anywhere on the Board, Boost self by 5. When the last Frost is cleared, Damage self by 5.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/55\/4035icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Ice Giant",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Spawn Impenetrable Fog, Clear Skies or Quen Sign.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/200\/50109icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Ida Emean",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Damage an Enemy by 4. If the Enemy is under Frost, Damage it by 8 instead.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/53\/4002icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Imlerith",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Add 3 Armor to 3 adjacent Units and Boost them by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/294\/50211icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Immune Boost",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Apply Fog to a row on your opponent's side. Fog: Every turn, at the start of your turn, Damage the Highest Unit on the row by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/14\/4icon.png",
+        "Row": "EventMeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Impenetrable Fog",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever you play a Spying Unit (including Golds), Boost self by 2. Deploy: Boost self by 2 for each Spying Enemy (including Golds).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/274\/50182icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Impera Brigade",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Look at the top card in your Deck. If it's Bronze, gain 2 Armor. If it's Silver, Boost self by 1. If it's Gold, Promote self.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/275\/50183icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Impera Enforcers",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Orders: Play this Unit from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/292\/50098icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Imperial Golem",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Whenever an Enemy moves to a different row, Damage it by 2. Deploy: Damage an Enemy by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/199\/50106icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Iorveth",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deathwish: Boost all Units on the other side of the Board by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/224\/50197icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Iris",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Play a Bronze or Silver Ambush card from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/198\/50105icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Isengrim",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Play a Bronze Special card from your Deck, then Spawn a copy of it. Shuffle the others back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/47\/3040icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Ithlinne",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Play the top Loyal Bronze or Silver Unit in your Deck and Boost it by 10.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/265\/50173icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Joachim de Wett",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn John Calveit Deploy: Look at the top 3 Bronze or Silver cards in your Deck. Play 1. The others remain on top.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/316\/50233icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "John Calveit",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Force all Northern Realms Machine Allies to Damage a random Enemy by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/108\/1001icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "John Natalis",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Discard a card from your Hand (can be Gold), then create a copy in your Hand of a card of the same color in your opponent's Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/170\/50023icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Johnny",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Move 3 adjacent Enemies to this Unit's row on their side and Damage them by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/327\/50244icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Jotunn",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Veteran 1. Deploy: Damage self by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/212\/50132icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "12",
+        "Name": "Jutta an Dimun",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Boost by 1 this Unit and all Bronze Loyal Units with the same Power in your Hand, Deck or on your side of the Board. Crewmen 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/182\/50059icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Kaedweni Sergeant",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Return a Machine Ally to your Hand and immediately play it again. Crewmen 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/237\/50067icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Kaedweni Siege Platform",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever an Ally appears, Boost it by 1. If it's a Machine, Boost it by 1 and add 1 Armor. Crewmen 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/37\/1112icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Kaedweni Siege Support",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "After 3 turns, at the start of your turn, Spawn Hemdall.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/120\/5003icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "1",
+        "Name": "Kambi",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Consume a Unit from either Graveyard.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/94\/4041icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Katakan",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Consume a Unit from your Hand, then Boost self by an additional 8.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/231\/50076icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Kayran",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Spawn Quen Sign, Epidemic or Thunderbolt Potion.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/230\/50052icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Keira Metz",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn King Bran Deploy: Discard up to 3 cards from your Deck and Strengthen all Units among them by 1. Then shuffle your deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/311\/50228icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "King Bran",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy, Brave: Strengthen self enough to tie the Round or to a maximum of 15 base Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/223\/50195icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "King of Beggars",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Damage all Units on a row by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/218\/50151icon.png",
+        "Row": "MeleeRangedSiegeEvent",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Lacerate",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Play Eskel and Vesemir from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/87\/564icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Lambert",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Reveal a Unit in your Hand (can be Gold) and Damage an Enemy by its base Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/304\/50221icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Leo Bonhart",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: If Spying, set own base Power to 1. Deploy: Banish 2 Units to each side of this Unit and Boost this Unit by their Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/247\/50155icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Letho of Gulet",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Every turn, at the start of your turn, Damage the Unit to the right by 1, then Strengthen self by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/166\/50139icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Light Longship",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Boost all Botchlings in your Hand, Deck and Graveyard by 5. Deathwish: Play a Botchling from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/289\/50069icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Lubberkin",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Discard a Bronze Unit from your Deck and Damage a Unit by the Discarded Unit's base Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/121\/5031icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Madman Lugos",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Gain Resilience.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/161\/50120icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Mahakam Defender",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Boost an Ally by 3. If it's a Dwarf, Boost by 4 instead.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/50\/3108icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Mahakam Guard",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Every turn, at the start of your turn, move a random Unit on another row on this side to this row. Deploy: Gain 3 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/233\/50114icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Malena",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever a card is Revealed, Damage a random Enemy by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/283\/50191icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Mangonel",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy, Brave: Strengthen self by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/118\/4045icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Manticore",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Damage 5 adjacent Units by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/173\/50036icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Manticore Venom",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Boost one of the Lowest Bronze or Silver Units in your Deck by 2 and play it.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/297\/50214icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Marching Orders",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Spawn Spores or Mutagen.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/229\/50203icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Mardroeme",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Reset a Unit and toggle its Lock.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/181\/50058icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Margarita Laux\u2013Antille",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Destroy all Spying Enemies.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/248\/50156icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Menno Coehoorn",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Damage all Units on a row by half their Power (rounding up and ignoring Armor).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/171\/50031icon.png",
+        "Row": "EventMeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Merigold's Hailstorm",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: If neither player has passed, return the Highest Enemy to your opponent's Hand, then return the Highest Ally to your Hand.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/144\/50107icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Milva",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Spawn a Bronze Necrophage or Insectoid Unit and Boost it by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/197\/50102icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Monster Nest",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Ambush: When an Enemy appears, turn Morenn over and Damage that Enemy by 5 before its Deploy ability resolves.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/46\/3037icon.png",
+        "Row": "RangedSiegeMelee",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Morenn",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Whenever this Unit is Discarded or Destroyed, Resurrect it and Weaken it by half its Power (rounding up).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/72\/5043icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Morkvarg",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Morvran Voorhis Deploy: Reveal up to 3 cards from either player's Hand (can be Golds).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/315\/50232icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Morvran Voorhis",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Damage Units by 2, 2 and then 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/27\/575icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Myrgtabrakke",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Play a Bronze or Silver Special card from your Deck. Shuffle the others back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/98\/11icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Nature's Gift",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage a Spying Unit by 5. If it was Destroyed, Strengthen self by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/277\/50185icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Nauzicaa Brigade",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Clear Weather from the row on your side and Boost 1 Ally or Revealed Unit in your Hand by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/276\/50184icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Nauzicaa Standard Bearer",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Banish a Unit from either Graveyard and Boost an Ally by its Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/298\/50215icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Necromancy",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever an Ally Consumes a card while this Unit is in your Hand, Deck or on your side of the Board, Boost self by 1. Deathwish: Play a Nekker from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/141\/50085icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Nekker",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Choose a Bronze Ally and create 2 base copies of it on the bottom of your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/191\/50080icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Nekker Warrior",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Shuffle up to 3 cards from your Graveyard into your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/109\/1042icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Nenneke",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Gain 2 Armor. Deploy: Reveal a random card from your Hand (can be Gold).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/284\/50208icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Nilfgaardian Knight",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Frost Damage on your opponent's side is increased to 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/59\/4051icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Nithral",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "After 4 turns, at the start of your turn, Damage all Enemies by 1, return this Unit to your Hand and Transform it into Exhausted Ocvist.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/100\/574icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Ocvist",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Every turn, at the start of your turn, move this Unit to a random row and Boost all Units on it by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/110\/1043icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Odrin",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "If at the start of your turn there are 3 or more Units on the opposite row, wake up. Deploy: Boost Units adjacent to this Unit by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/239\/50082icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Old Speartip: Asleep",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "When this Unit is Discarded or Destroyed, Weaken it by half (rounding up). At the start of Rounds 2 and 3, Resurrect this Unit if it is in the Graveyard.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/169\/50022icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Olgierd",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Choose a Bronze Unit in your Hand and create a base copy of it in both players' Hands.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/88\/568icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Operator",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Boost up to 6 random Allies by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/295\/50212icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Overdose",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: If neither player has passed, shuffle the Lowest Ally into your Deck, then shuffle the Lowest Enemy into your opponent's Deck. Does not affect Pavetta.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/180\/50057icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Pavetta",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Reset a Unit. If it's an Ally, Strengthen it by 3. If it's an Enemy, Weaken it by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/258\/50166icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Peter Saar Gwynleve",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Damage an Enemy by 5, then Damage random Enemies by 4, 3, 2 and 1. The same Enemy cannot be Damaged twice in a row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/177\/50051icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "1",
+        "Name": "Philippa Eilhart",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Resurrect a Bronze Unit.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/80\/5117icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "1",
+        "Name": "Priestess of Freya",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Every 2 turns, at the start of your turn, Boost this Unit by the number of Machine Allies. Crewmen 1. Deploy: Gain 2 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/157\/50056icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Prince Stennis",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Every turn, at the end of your turn, Boost a random Ally (but never self) by 3. Ability discontinues after the Unit Boosts Allies 4 times without leaving the Board.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/105\/551icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Priscilla",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Retaliation: Spawn a Chort on the row. Deathwish: Spawn a Chort on the row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/85\/559icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "2",
+        "Name": "Prize-Winning Cow",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Resurrect all your Queensguards.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/76\/5114icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Queensguard",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Choose a Unit in your Hand. Give all copies of it in your Hand and Deck a Shield and Boost them by 2. Units which already have a Shield cannot be chosen and aren't affected.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/232\/50101icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Quen Sign",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Radovid Deploy: Toggle 2 Units' Lock. If Enemies, Damage them by 4 as well.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/321\/50238icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Radovid",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Apply Ragh Nar Roog to all rows on your opponent's side. Ragh Nar Roog: Every turn, at the start of your turn, Damage one of the Highest Units on the row by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/137\/50029icon.png",
+        "Row": "EventMeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Ragh Nar Roog",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Retaliation: Transform into a Raging Bear.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/152\/50135icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Raging Berserker",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Play a Bronze or Silver Disloyal Unit from your Deck. Shuffle the others back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/305\/50222icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Rainfarn",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy or Bond: Boost all Reaver Hunters in your Hand, Deck and on your side of the Board by 1. When a Reaver Hunter Trio is completed, Damage the Highest Enemy by half its Power (rounding up and ignoring Armor).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/148\/50064icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Reaver Hunter",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Choose a different Bronze Ally. Play a copy of it from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/114\/1108icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "1",
+        "Name": "Reaver Scout",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever this Unit's Armor reaches 0, Boost self by 5. Deploy: Gain 4 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/36\/1111icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Redanian Elite",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Every turn, at the start of your turn, if this Unit has no Armor, Boost it by 2 and add 2 Armor to it.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/139\/50065icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Redanian Knight",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "If this Unit has Armor at the start of your turn, Boost Units adjacent to it by 1. Deploy: Gain 2 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/126\/10icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Redanian Knight-Elect",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "After 2 turns, at the start of your turn, Boost self by 7 if you are winning the Round.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/127\/552icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Regis",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Look at 3 random Bronze Units from your opponent's Deck. Consume 1, Boost self by base Power of the consumed Unit, then shuffle the others back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/287\/50016icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Regis: Higher Vampire",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage an Enemy by 2. Fresh Crew: Repeat the Deploy ability.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/184\/50061icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Reinforced Ballista",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Add 2 Armor to Units adjacent to this Unit. Fresh Crew: Boost self by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/186\/50063icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Reinforced Siege Tower",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Every turn, at the start of your turn, Damage a random Enemy by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/187\/50066icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Reinforced Trebuchet",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Play a Bronze or Silver Unit from your Deck. Shuffle the others back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/188\/50071icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Reinforcement",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Resurrect a Gold Unit from your Graveyard.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/227\/50043icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Renew",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Return a Unit from your Graveyard to your Hand, then Discard a card from your Hand.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/168\/50150icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Restore",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Whenever you play a Gold Unit from your Hand, play Roach from your Deck on a random row before that Unit's Deploy ability resolves.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/26\/566icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Roach",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Spawn a Cow Carcass on your opponent's side.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/269\/50207icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Rot Tosser",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Play a Gold card from your Deck. Shuffle the others back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/309\/50226icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Royal Decree",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deathwish: Set all Units on the row to the Power of the Lowest Unit on the row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/179\/50054icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Sabrina Glevissig",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Boost self by 1 for each Dwarf Ally (including Golds). Damage an Enemy by the number of Elf Allies (including Golds).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/43\/3000icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Saesenthessis",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Shuffle a card from your Hand (can be Gold) back into your Deck, then draw the top different card of the same color from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/29\/584icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Sarah",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Orders: Play this Unit from your Deck on a random row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/325\/50242icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Saskia",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "After an Enemy is played from any Hand and its Deploy ability resolves, Damage it by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/69\/5036icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Savage Bear",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: You may Transform a card from your Hand (can be Gold) into Scorch.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/128\/3042icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Schirr�",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Destroy all the Highest Units.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/13\/2icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Scorch",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Set the Power of a Revealed Unit in your opponent's Hand to 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/263\/50171icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "9",
+        "Name": "Serrit",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Trigger the Deathwish of 3 Units to the right.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/291\/50097icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Shadow",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Resurrect a Unit and add 4 Armor to it.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/32\/1006icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Shani",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Move all Units on the row to random rows on the same side and Boost self by 1 for each.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/48\/3043icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Sheldon Skaggs",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Resurrect a Unit.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/70\/5038icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Sigrdrifa",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: You may play a Bronze Special card from your Hand. If you do, draw the top card from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/178\/50053icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "S�le de Tansarville",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Apply Skellige Storm to a row on your opponent's side. Skellige Storm: Every turn, at the start of your turn, Damage the leftmost units on the row by 2, 2 and 1, respectively.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/17\/8icon.png",
+        "Row": "EventMeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Skellige Storm",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Veteran 1. After 2 turns, at the end of your turn, convert this Unit's current Power into base Power.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/326\/50243icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Skjall",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever either player Reveals a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/270\/50178icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Spotter",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Damage up to 6 random Enemies by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/172\/50032icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Stammelford's Tremors",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Choose any card from your Deck and place it on top. Then shuffle the rest of your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/252\/50160icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Stefan Skellen",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "If played on your opponent's side, then after 2 turns, at the end of your turn, move the Highest other Unit on its row to your side.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/238\/50077icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Succubus",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Spawn a base copy of the last Enemy your opponent played from their Hand.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/300\/50217icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Summoning Circle",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Veteran 1. Deploy: Draw the top card from your Deck, then Discard a card from your Hand (can be Gold).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/213\/50134icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Svanrige",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Boost a Unit by 8.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/175\/50038icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Swallow Potion",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Choose an Enemy or a Revealed opposing Unit and move all copies of it from your opponent's Deck to their Graveyard.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/260\/50168icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Sweers",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Play all Temerian Infantrymen from your Deck on the row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/111\/1107icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Temerian Infantryman",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Draw the top 2 cards from your Deck. Keep 1 and shuffle the other back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/33\/1030icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "11",
+        "Name": "Thaler",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deathwish: Create 2 Lesser Guardians on the top of your opponent's Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/293\/50192icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "The Guardian",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Draw your top 2 Bronze or Silver cards. Play 1 and shuffle the other back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/155\/50030icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "The Last Wish",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Boost 3 adjacent Units by 4.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/176\/50039icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Thunderbolt Potion",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: If neither player has passed, Boost self by 15, then your opponent draws the top Bronze card from their Deck and Reveals it.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/253\/50161icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Tibor Eggebracht",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Apply Rain to a row on your opponent's side. Rain: Every turn, at the start of your turn, Damage up to 5 of the Lowest Units on the row by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/15\/5icon.png",
+        "Row": "EventMeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Torrential Rain",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Ambush: When your opponent passes, turn this Unit over and Boost 2 Units on each side by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/201\/50110icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Toruviel",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Play the bottom card from your opponent's Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/286\/50210icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "Treason",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage 3 adjacent Enemies by 1. Fresh Crew: Increase the Damage dealt by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/185\/50062icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Trebuchet",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Gain 3 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/323\/50240icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Tridam Infantryman",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Damage a Unit by 5.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/21\/506icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Triss Merigold",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Every turn, at the start of your turn, Boost all other Lowest Allies by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/83\/507icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Triss: Butterfly Spell",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Counts as part of any Northern Realms Trio on the row. Deploy: Gain 5 Armor.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/35\/1039icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Trollololo",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Draw the top 2 cards from your Deck. Keep one and Discard the other.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/122\/5033icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "12",
+        "Name": "Udalryk",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Leader",
+        "Abilities": "Spawn Unseen Elder. Deploy: Consume 3 Allies, but Strengthen instead of Boosting.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/308\/50225icon.png",
+        "Row": "Event",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Unseen Elder",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Every turn, at the end of your turn, Damage by 2 every Damaged Enemy with 2 Power or less.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/303\/50220icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Vabjorn",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Spawn Biting Frost, Clear Skies or Stammelford's Tremors.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/261\/50169icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Vanhemar",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Reveal up to 2 cards from your Hand (can be Golds). For each, Reveal 1 random card from your opponent's Hand (can be Gold).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/249\/50157icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Vattier de Rideaux",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Damage an Enemy by 3. If it was Destroyed, Spawn a Blue Stripes Commando on a random row and repeat the Deploy ability (one time only).",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/30\/1000icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Vernon Roche",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Whenever you complete a Northern Realms Trio, play this Unit from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/34\/1031icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Ves",
+        "Faction": "Northern Realms"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Play Eskel and Lambert from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/86\/562icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Vesemir",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Resurrect a Bronze Unit from your opponent's Graveyard.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/271\/50179icon.png",
+        "Row": "Ranged",
+        "Loyalty": "",
+        "Power": "1",
+        "Name": "Vicovaro Medic",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Trigger the ability of a Spying Enemy Ambassador or Emissary.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/290\/50070icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "1",
+        "Name": "Vicovaro Novice",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Destroy an Ally or (only possible if your opponent has not passed) an Enemy. If you destroy an Ally, play the top card from your Deck. If you destroy an Enemy, your opponent draws the top Bronze card from their Deck and Reveals it.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/251\/50159icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Vilgefortz",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "After 3 turns, at the start of your turn, Destroy all the Highest Units on the Board.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/99\/553icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Villentretenmerth",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Consume the Unit to the right. Every 2 turns, at the start of your turn, Consume the Unit to the right.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/194\/50088icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Vran Warrior",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Clear Weather from the row on your side and move a Unit to this row on its side.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/207\/50118icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Vrihedd Brigade",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Every turn, at the start of your turn, Boost a random Loyal Unit in your Hand by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/45\/3034icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Vrihedd Dragoon",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Mulligan a card.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/129\/3103icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Vrihedd Officer",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Ambush: After 2 turns, at the start of your turn, turn this Unit over.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/208\/50121icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Vrihedd Sappers",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever you Mulligan a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/90\/3110icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Vrihedd Vanguard",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Whenever you Discard a Unit, Damage a random Enemy by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/216\/50142icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "War Longship",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Spawn Torrential Rain, Clear Skies or Lacerate.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/190\/50079icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Water Hag",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Apply Frost to a row on your opponent's side and the row above it. Frost: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/18\/9icon.png",
+        "Row": "EventMeleeRanged",
+        "Loyalty": "",
+        "Power": "0",
+        "Name": "White Frost",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Every turn, at the start of your turn, Strengthen the Unit to the left by 1 and Damage the Unit to the right by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/242\/50206icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Wild Boar of the Sea",
+        "Faction": "Skellige"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Play a Biting Frost card from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/143\/50093icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Wild Hunt Hound",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Choose a different Bronze Wild Hunt Ally. Play a copy of it from your Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/302\/50219icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "3",
+        "Name": "Wild Hunt Navigator",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "At the end of the Round, keep this Unit on the Board if you lost. If this Unit is part of a Trio at the end of your turn, Boost it by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/63\/4114icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Wild Hunt Rider",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage an Enemy by 3. If it was Destroyed, Boost self by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/62\/4113icon.png",
+        "Row": "Melee",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Wild Hunt Warrior",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Spawn 3 Rabid Wolves and apply Fog to the opposite row.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/54\/4003icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "5",
+        "Name": "Woodland Spirit",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Bronze",
+        "Abilities": "Deploy: Damage an Enemy by 3.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/96\/4102icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Wyvern",
+        "Faction": "Monsters"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Look at the top 3 cards in your opponent's Deck. You may move 1 to the bottom of their Deck.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/254\/50162icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "10",
+        "Name": "Xarthisius",
+        "Faction": "Nilfgaard"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Deploy: Draw the top Unit and top Special card from your Deck. Keep 1 and shuffle the other back.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/44\/3032icon.png",
+        "Row": "RangedSiegeMelee",
+        "Loyalty": "",
+        "Power": "12",
+        "Name": "Yaevinn",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Silver",
+        "Abilities": "Whenever a Dwarf Ally (including Golds) is played, Boost self by 1. Deploy: Gain Resilience.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/205\/50116icon.png",
+        "Row": "Siege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Yarpen Zigrin",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Spawn a Unicorn or a Chironex.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/135\/50017icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "6",
+        "Name": "Yennefer",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Every turn, at the start of your turn, Damage all the Highest Enemies by 1.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/221\/50202icon.png",
+        "Row": "SiegeMeleeRanged",
+        "Loyalty": "",
+        "Power": "4",
+        "Name": "Yennefer: The Conjurer",
+        "Faction": "Neutral"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Move 3 Units to this row on their side. If they are Allies, Strengthen them by 2.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/22\/509icon.png",
+        "Row": "MeleeRangedSiege",
+        "Loyalty": "",
+        "Power": "8",
+        "Name": "Zoltan Chivay",
+        "Faction": "Scoia'tael"
+    },
+    {
+        "Type": "Gold",
+        "Abilities": "Deploy: Spawn Field Marshal Duda Companion or Field Marshal Duda Agitator.",
+        "imageurl": "http:\/\/media-SeaWolf.cursecdn.com\/avatars\/8\/84\/508icon.png",
+        "Row": "RangedMeleeSiege",
+        "Loyalty": "",
+        "Power": "7",
+        "Name": "Zoltan: Animal Tamer",
+        "Faction": "Neutral"
+    }
+]
