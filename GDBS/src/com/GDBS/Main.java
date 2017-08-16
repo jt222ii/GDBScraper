@@ -5,14 +5,19 @@ import org.json.simple.JSONObject;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
 import org.jsoup.select.*;
+
+import javax.imageio.ImageIO;
+import java.awt.image.BufferedImage;
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.net.URL;
 import java.util.Iterator;
 
 
 public class Main {
 
-    static String URL = "http://www.gwentdb.com/cards?filter-display=1"; //Use the table view if you change this.
+    static String siteURL = "http://www.gwentdb.com/cards?filter-display=1"; //Use the table view if you change this.
     static String urlNoPage = "http://www.gwentdb.com/cards?filter-display=1&page=";
     public static void main(String[] args) {
         try {
@@ -21,9 +26,8 @@ public class Main {
             e.printStackTrace();
         }
     }
-
     public static void getCards() throws IOException {
-        Document doc = Jsoup.connect(URL).get();
+        Document doc = Jsoup.connect(siteURL).get();
         int totalPagesToGet = Integer.parseInt(doc.select("li.b-pagination-item").last().previousElementSibling().text());
         String nextUrl;
         JSONArray cards = new JSONArray();
@@ -34,7 +38,12 @@ public class Main {
             while(iterator.hasNext()) {
                 JSONObject card = new JSONObject();
                 Element cardRow = (Element)iterator.next();
-                card.put("imageurl", cardRow.select("tr").attr("data-card-image-url"));
+
+                String imageurl = cardRow.select("tr").attr("data-card-image-url");
+                imageurl = "http://media-seawolf.cursecdn.com/avatars/thumbnails/" + imageurl.substring(imageurl.lastIndexOf("avatars/") + 8);
+                imageurl = imageurl.substring(0, imageurl.lastIndexOf("/"))+"/228/293/"+imageurl.substring(imageurl.lastIndexOf("/")+1);
+
+                card.put("imageurl", imageurl);
                 card.put("Name", cardRow.select("td.col-name").text());
                 card.put("Faction", cardRow.select("td.col-faction").text());
                 card.put("Power", cardRow.select("td.col-power").text());
